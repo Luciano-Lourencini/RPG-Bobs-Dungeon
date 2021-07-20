@@ -5,4 +5,6 @@ Desenvolvido como objeto para estudo e descontração!
 
 O jogo reage às escolhas do jogador de forma aleatória, fazendo com que a mesma escolha possa ter resultados diferentes.
 
-O projeto ainda está em desenvolvimento, por isso a estória pode estra sem conclusão e eventuais bugs podem aparecer! 
+O projeto ainda está em desenvolvimento, por isso a estória* pode estra sem conclusão e eventuais bugs podem aparecer! 
+
+*estória = palavra usada para a narração de fatos imaginários, de ficção.
